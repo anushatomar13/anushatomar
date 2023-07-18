@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha Tomar</h1>
 <h3 align="center">I am a Google Women Engineers Scholar'23. I am a passionate machine learning enthusiast and I am also exploring Android development!</h3>
 
-<img align="right" alt="Coding" width="400" src ="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+<img align="right" alt="Coding" width="400" src ="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushatomar13&label=Profile%20views&color=0e75b6&style=flat" alt="anushatomar13" /> </p>
 
