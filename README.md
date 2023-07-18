@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha Tomar</h1>
-<h3 align="center">A passionate machine learning enthusiast from Delhi! I am also exploring Android development!</h3>
+<h3 align="center">I am a Google Women Engineers Scholar'23. I am a passionate machine learning enthusiast and I am also exploring Android development!</h3>
 
 <img align="right" alt="Coding" width="400" src ="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
